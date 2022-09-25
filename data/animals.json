@@ -124,6 +124,15 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Sassy",
+      "species": "Cat",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "13"
     }
   ]
 }
